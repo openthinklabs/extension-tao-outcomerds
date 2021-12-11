@@ -1,6 +1,6 @@
 {
 
-    "name": "oat-sa/extension-tao-outcomerds",
+    "name": "openthinklabs/extension-tao-outcomerds",
     "description": "extension that allows outcome storage in relational database",
     "type": "tao-extension",
     "authors": [
